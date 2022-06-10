@@ -35,7 +35,10 @@ button{
     font-size: 23px;
     transition: .4s;
     cursor: pointer;
-}   
+}  
+button a{
+    text-decoration: none;
+} 
 .all-text{
     display: flex;
     justify-content: center;
